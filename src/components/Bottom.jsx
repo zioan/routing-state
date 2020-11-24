@@ -4,6 +4,7 @@ import "./bottomStyle.css";
 import HomeDescription from "../pages/pageDescription/HomeDescription";
 import ContactDescription from "../pages/pageDescription/ContactDescription";
 
+//Conditionally component render based on route
 export default function Bottom() {
   return (
     <div>

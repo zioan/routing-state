@@ -6,6 +6,7 @@ import Nav from "./components/Nav";
 
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
+//Pages route
 function App() {
   return (
     <BrowserRouter>

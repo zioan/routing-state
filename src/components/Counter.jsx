@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 
+// useState to create a counter
+// styled
 export default function Counter() {
   const [counter, setCounter] = useState(0);
   const style = {
