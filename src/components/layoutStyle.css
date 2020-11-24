@@ -1,0 +1,6 @@
+.layout .main-content {
+  width: 80%;
+}
+.layout .content {
+  display: flex;
+}

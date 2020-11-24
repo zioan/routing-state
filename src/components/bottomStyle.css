@@ -1,0 +1,8 @@
+.bottom {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.bottom-description {
+  width: 50%;
+}
