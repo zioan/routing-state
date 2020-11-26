@@ -1,6 +1,8 @@
 import React from "react";
 import Sidebar from "./Sidebar";
 import Bottom from "./Bottom";
+import FetchAxios from "./FetchAxios";
+
 import "./layoutStyle.css";
 
 export default function Layout({ children }) {
@@ -11,6 +13,7 @@ export default function Layout({ children }) {
         <Sidebar />
       </div>
       <Bottom />
+      <FetchAxios />
     </div>
   );
 }
